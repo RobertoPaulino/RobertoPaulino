@@ -50,10 +50,10 @@ Aside from learning about new technologies I also have other hobbies such as:
 I'm actively seeking opportunities to contribute my skills and passion to open source projects while aiming to gain valuable experience through internships. I'm eager to collaborate, learn, and grow so please communicate with me if there is any cool projects I can participate on!
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertoPaulino&show_icons=true&theme=radical)
 
 ## Visitors
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=your_github_username.your_repository_name)](https://github.com/your_github_username/your_repository_name)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=RobertoPaulino.RobertoPaulino)](https://github.com/RobertoPaulino)
 
 <!-- Goodbye Section -->
 ## Thanks for dropping by!
