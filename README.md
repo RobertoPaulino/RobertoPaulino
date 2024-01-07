@@ -53,5 +53,5 @@ I'm actively seeking opportunities to contribute my skills and passion to open s
 <!-- Goodbye Section -->
 ## Thanks for dropping by!
 
-Feel free to explore my repositories and reach out to me. I'm excited about potential collaborations and discussions. Let's create something remarkable together!
+Feel free to explore my repositories and reach out to me for any question! 
 
