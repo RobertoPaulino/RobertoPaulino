@@ -7,7 +7,6 @@
 </ul>
 
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nimsaysm&show_icons=true&theme=radical)
 
 <!---
 RobertoPaulino/RobertoPaulino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
