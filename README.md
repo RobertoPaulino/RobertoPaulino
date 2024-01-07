@@ -19,25 +19,37 @@ Aside from learning about new technologies I also have other hobbies such as:
 ## Skills
 
 ### What I Know
-
-<ul>
-  <li>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width=50/>
-  </li>
-</ul>
+<div style="display: flex; gap: 30px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="60" height="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="60" height="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" width="60" height="60">
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="60" height="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="60" height="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="60" height="60">
+    </div>
+</div>
 
 ### What I'm Learning
-- AWS
-- DevOps
-- Pentest
+<div style="display: flex; gap: 30px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="Jenkins" width="60" height="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="60" height="60">
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" width="60" height="60">
+    </div>
+</div>
+
 
 ## Seeking Opportunities
 
 I'm actively seeking opportunities to contribute my skills and passion to open source projects while aiming to gain valuable experience through internships. I'm eager to collaborate, learn, and grow so please communicate with me if there is any cool projects I can participate on!
 
 ## Stats
-<!-- Use an API service like GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Replace `your_github_username` with your GitHub username -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
 
 ## Visitors
