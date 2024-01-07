@@ -1,15 +1,16 @@
 <!-- Welcome Section -->
-# Hey there! I'm Roberto! 👋
+# <a href="https://giphy.com/stickers/jerseydemic-hello-hey-hej-9sZCJSFb7S9C2pkAoA"><img src="https://media0.giphy.com/media/9sZCJSFb7S9C2pkAoA/giphy.gif" width="60"></a> I'm Roberto!
 
 I'm a passionate computer science student with interest in AI, Cybersecurity, and software development. I love to learn about new technologies and their development.
 
 ## About Me
 
 Aside from learning about new technologies I also have other hobbies such as:
-- 🎬 Movies
-- 🎵 Music
-- 🎮 Video Games
-- 🌸 Anime
+- <a href="https://giphy.com/stickers/inktober-giftober-giftoberbynora-LITTI5SuHLpu9hvdFL"><img src="https://media.giphy.com/media/LITTI5SuHLpu9hvdFL/giphy.gif?cid=ecf05e47jzxmonlvlifjknhvnuzhlsrdu3rsk1a51so7v55d&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"></a> Movies
+- <a href="https://giphy.com/stickers/ralph-skull-trumpet-3ohhwuiYAq2pNT4e5y"><img src="https://media.giphy.com/media/3ohhwuiYAq2pNT4e5y/giphy.gif?cid=ecf05e47oay4lcck7vo56zxdigwbu6s7qy2pgjisayg20jut&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"></a> Music
+- <a href="https://giphy.com/stickers/haydiroket-transparent-haydiroket-running-9KawrQzIwdAYg"><img src="https://media.giphy.com/media/9KawrQzIwdAYg/giphy.gif?cid=ecf05e47ep1epomjdgm7k2080fr4umzf2901dlxhkq359jgb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"></a> Video Games
+- <a href="https://giphy.com/stickers/cute-BOPrq7m5jYS1W"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9nb3U3Y3lnaW8yM2R5a2sydDFpbDE0dmtsdDdiMWE2eTUweTZoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOPrq7m5jYS1W/giphy.gif" width="20"></a> Anime
+
 
 ## Social and Contacts
 
@@ -48,12 +49,6 @@ Aside from learning about new technologies I also have other hobbies such as:
 ## Seeking Opportunities
 
 I'm actively seeking opportunities to contribute my skills and passion to open source projects while aiming to gain valuable experience through internships. I'm eager to collaborate, learn, and grow so please communicate with me if there is any cool projects I can participate on!
-
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertoPaulino&show_icons=true&theme=radical)
-
-## Visitors
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=RobertoPaulino.RobertoPaulino)](https://github.com/RobertoPaulino)
 
 <!-- Goodbye Section -->
 ## Thanks for dropping by!
