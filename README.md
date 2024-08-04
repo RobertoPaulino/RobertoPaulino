@@ -28,18 +28,6 @@ Aside from learning about new technologies I also have other hobbies such as coo
     </div>
 </div>
 
-### What I'm Learning
-<div style="display: flex; gap: 30px;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="Jenkins" width="60" height="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="60" height="60">
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" width="60" height="60">
-    </div>
-</div>
-
 
 ## Seeking Opportunities
 
