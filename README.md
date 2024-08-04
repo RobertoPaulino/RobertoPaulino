@@ -9,7 +9,7 @@ Aside from learning about new technologies I also have other hobbies such as coo
 
 ## Social and Contacts
 
-- Drop me an email at [RPaulinoDev@gmail.com](mailto:RPaulinoDev@gmail.com)
+- Drop me an email at [RPaulinoDev@gmail.com](mailto:rpaulinodevinq@outlook.com)
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/robertopaulino-it/)
 
 ## Skills
